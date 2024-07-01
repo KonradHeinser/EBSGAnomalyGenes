@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <GeneDef Name="EBSG_Crusader" Abstract="True">
+        <displayCategory>EBSG_AnomalyGenes</displayCategory>
+        <exclusionTags>
+            <li>EBSG_Crusader</li>
+        </exclusionTags>
+    </GeneDef>
+
+</Defs>
+
+<!-- ActivitySuppressionRate -->
