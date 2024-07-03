@@ -2,7 +2,7 @@
 <Defs>
 	<GeneCategoryDef>
         <defName>EBSG_AnomalyGenes</defName>
-        <label>EBSG - Anomaly Genes</label>
+        <label>EBSG - Anomaly</label>
         <displayPriorityInXenotype>429.97</displayPriorityInXenotype>
     </GeneCategoryDef>
 
@@ -18,7 +18,7 @@
         <geneClass>EBSGFramework.HediffAdder</geneClass>
         <customEffectDescriptions>
             <li>The pawn starts with the inhumanization hediff.</li>
-            <li>Removal of this gene will always result in the hediff being removed.</li>
+            <li>Removal of this gene will always result in inhumanized being removed, even if the pawn originally received it from another source.</li>
         </customEffectDescriptions>
         <symbolPack>
             <prefixSymbols>
@@ -47,7 +47,7 @@
         <geneClass>EBSGFramework.HediffAdder</geneClass>
         <customEffectDescriptions>
             <li>The pawn gains both the inhumanization hediff and the void touched hediff.</li>
-            <li>Removal of this gene will always result in those hediffs being removed.</li>
+            <li>Removal of this gene will always result in those hediffs being removed, even if the pawn originally received one of them from another source.</li>
         </customEffectDescriptions>
         <symbolPack>
             <wholeNameSymbols>
