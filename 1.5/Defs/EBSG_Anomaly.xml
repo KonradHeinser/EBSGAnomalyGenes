@@ -39,8 +39,8 @@
         <defName>EBSG_VoidBorn</defName>
         <label>void born</label>
         <description>Carriers of this gene inherently have a piece of the void inside them, and that piece guides everything they do with some minor side effects. It is usually easy to recognize carriers of the void born gene as there are few individuals with gray hair and eyes.\n\nIf you have a mod that changes the effects of void touched, this will usually use that version of the hediff instead of the vanilla version.\n\nBecause this is an archite gene, it will be impossible to inherit or extract without the use of other mods that revamp the inheritance system.</description>
-        <biostatArc>4</biostatArc>
-        <biostatCpx>12</biostatCpx>
+        <biostatArc>2</biostatArc>
+        <biostatCpx>6</biostatCpx>
         <displayOrderInCategory>-1</displayOrderInCategory>
         <iconPath>EBSG/Gene_VoidBorn</iconPath>
         <displayCategory>EBSG_AnomalyGenes</displayCategory>
